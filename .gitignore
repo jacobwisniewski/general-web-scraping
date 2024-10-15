@@ -1,0 +1,11 @@
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Project exclude paths
+/src/scrape-aldi.js
+/tests/example.spec.js
+/tests-examples/demo-todo-app.spec.js
+/playwright.config.js
